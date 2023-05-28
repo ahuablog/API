@@ -1,4 +1,3 @@
-## 一个简单的调用微步IP情报的脚本
 import json
 import requests
 
